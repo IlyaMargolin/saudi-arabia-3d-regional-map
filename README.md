@@ -72,6 +72,14 @@ Users may:
 - refine the visual design;
 - adapt the project for other territories or regional datasets.
 
+## Reproducing the workflow
+
+A step-by-step Google Colab setup guide is included in:
+
+- `COLAB_USAGE_GUIDE.md`
+
+This guide explains how to upload the required geometry file, create the dataset in Colab, run the visualization code, and export the final HTML map.
+
 ## Notes
 
 This publication is intended to make the implementation transparent, reviewable, and reusable. It reflects one specific project-stage version of the map and should be interpreted accordingly.
